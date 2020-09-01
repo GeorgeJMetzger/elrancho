@@ -90787,4 +90787,5 @@ video {
 nav {
   margin: 0px -2000px;
   padding: 0px 2000px;
+  overflow-x: hidden;
 }
